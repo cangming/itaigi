@@ -10,7 +10,7 @@ class ToLam extends React.Component {
     return (
       <div className='app bar container'>
         <h1 className='title segment'>
-          <Link to='app'>
+          <Link to='/'>
             <i className='logo'>
               <img src={Logo}/>
             </i>
